@@ -1,0 +1,52 @@
+body{
+    background-color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    
+}
+main{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto 1rem auto;
+    padding: 1rem 2rem;
+
+}
+header{
+    background-color: gray;
+    padding: 2rem 1rem;
+}
+#tagline{
+    font-weight: 600;
+    font-size: 2rem;
+}
+header h1{
+    color: darkgreen;
+    font-weight: 500;
+    font-size: 4rem;
+}
+header img{
+    float: right;
+    border-radius: 50%;
+    
+}
+#contact-button{
+    border: none;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 0.25rem;
+    padding: .50rem .75rem;
+    text-decoration: none;
+}
+fieldset{
+    border:  1px solid darkgreen;
+    padding: 1rem;
+    margin-bottom: 1.25rem;
+
+}
+legend{
+    color: darkgreen;
+    font-variant: small-caps;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    width: 100%;
+}
